@@ -6,15 +6,15 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "XPG1-zEgm.aternos.me",
+    "port": 23165,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -59,
+    "y": 88,
+    "z": 101
   },
   "utils": {
     "auto-auth": {
